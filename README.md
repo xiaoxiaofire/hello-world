@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GitHub.
 
-I love :kimono: :ukulele: and :dog:.
+I love :kimono: and :dog:.
